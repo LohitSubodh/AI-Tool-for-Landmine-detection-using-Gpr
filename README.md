@@ -1,2 +1,2 @@
-# Landmine-detection-using-GPRMax
-Landmine detection from gpr using CNN
+# AI Tool for Landmine Detection using GPR
+Landmine detection on GPR scans 
